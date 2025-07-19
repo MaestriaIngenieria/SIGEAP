@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch StartProject",
+            "request": "launch",
+            "mainClass": "sms.main.StartProject",
+            "vmArgs": "--module-path \"C:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx.swing.jar",
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx.web.jar",
+        "c:\\Aplicaciones\\Java\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jasper\\jasperreports-6.3.1.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\fontawesomefx-8.9.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jasper\\commons-digester-2.1.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jasper\\commons-logging-1.2.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jfoenix-9.0.1.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jasper\\commons-collections-3.2.2.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jasper\\jasperreports-javaflow-6.3.1.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jasper\\commons-beanutils-1.9.3.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\mysql-connector-java-5.1.46.jar",
+        "c:\\Aplicaciones\\Repo\\School-Management-System\\lib\\jasper\\jasperreports-fonts-6.3.1.jar"
+    ]
+}
